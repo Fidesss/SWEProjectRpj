@@ -7,6 +7,7 @@ public class A {
 		System.out.println("THis is A");
 		System.out.println("Change master");
 		System.out.println("THis is devB");		
+		System.out.println("THis is devC");		
 	}
 
 }
